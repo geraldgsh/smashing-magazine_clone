@@ -14,7 +14,7 @@ https://www.theodinproject.com/courses/html5-and-css3/lessons/design-teardown
 #Github Repo
 https://github.com/davitomix/SmashingMagazine_Clone
 
-## Authors
+## Contributors
 [David Martinez](https://github.com/davitomix)
 [Gerald Goh](https://github.com/geraldgsh)
 
